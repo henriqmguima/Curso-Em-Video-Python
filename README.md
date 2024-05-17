@@ -1,6 +1,6 @@
 # Curso-Em-Video-Python
 
-Todos os exercícios do [Curso em vídeo](https://www.youtube.com/@CursoemVideo) de Python
+Todos os exercícios do [Curso em vídeo](https://www.youtube.com/@CursoemVideo) de Python que eu realizei.
 
 ### `Mundo 1`
 - Printando 'Hello Word'
@@ -32,6 +32,14 @@ Todos os exercícios do [Curso em vídeo](https://www.youtube.com/@CursoemVideo)
 - Primeira e última ocorrência de uma string
 - Primeiro e última ocorrência de uma string
 - Primeiro e último nome de uma pessoa
+- Jogo da Adivinhação V1.0
+- Radar eletrônico
+- Par ou ímpar
+- Custo da Viagem
+- Ano Bissexto
+- Maior e menor Valores
+- Aumentos Múltiplos
+- Analisando Triângulo V1.0
 
 ### `Mundo 2`
 -
